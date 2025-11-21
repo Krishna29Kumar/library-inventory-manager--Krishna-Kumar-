@@ -1,0 +1,1 @@
+ Required Knowledge about class, function,json,pathlib etc.
